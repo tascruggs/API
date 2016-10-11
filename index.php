@@ -1,4 +1,5 @@
 //front page of the app, allow users to choose one of three api's (google, twitter, foursqaure)
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -30,7 +31,8 @@
     <form method="get" action=" map.php"><input type="submit" name="display"style="border-radius: 5px; background-color: orangered" value="Display Favorites" /></form>
     
     <?php
-    
+    // converts the given address to cooridates 
+	//and adds the given place information to the database
     if(isset($_GET['submit'])){
         
         $coName = $_GET['name'];
