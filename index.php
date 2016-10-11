@@ -1,3 +1,4 @@
+//front page of the app, allow users to choose one of three api's (google, twitter, foursqaure)
 <!DOCTYPE html>
 <html>
     <head>
