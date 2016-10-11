@@ -1,5 +1,5 @@
 //Creating a app using different api
-//this page is the front page allowing user to use one of three api's (Google, Twitter and Foursquare)
+//this page uses the Foursquare api to allow user to search for companies in a given area
 <html>
     
     
