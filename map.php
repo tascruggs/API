@@ -1,3 +1,5 @@
+//using google api user can see their favorite place on a map indicated by a marker 
+// and also display their favorite by keyword given.
 <!DOCTYPE html>
 <html>
     <head>
